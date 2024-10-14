@@ -306,6 +306,7 @@ Makefile: ..\..\MineCraftModComparer.pro G:\ProgramFiles\Qt\6.8.0\msvc2022_64\mk
 		G:\ProgramFiles\Qt\6.8.0\msvc2022_64\mkspecs\features\qt_config.prf \
 		G:\ProgramFiles\Qt\6.8.0\msvc2022_64\mkspecs\win32-msvc\qmake.conf \
 		G:\ProgramFiles\Qt\6.8.0\msvc2022_64\mkspecs\features\spec_post.prf \
+		.qmake.stash \
 		G:\ProgramFiles\Qt\6.8.0\msvc2022_64\mkspecs\features\exclusive_builds.prf \
 		G:\ProgramFiles\Qt\6.8.0\msvc2022_64\mkspecs\common\msvc-version.conf \
 		G:\ProgramFiles\Qt\6.8.0\msvc2022_64\mkspecs\features\toolchain.prf \
@@ -337,7 +338,6 @@ Makefile: ..\..\MineCraftModComparer.pro G:\ProgramFiles\Qt\6.8.0\msvc2022_64\mk
 		G:\ProgramFiles\Qt\6.8.0\msvc2022_64\lib\Qt6Gui.prl \
 		G:\ProgramFiles\Qt\6.8.0\msvc2022_64\lib\Qt6Core.prl \
 		G:\ProgramFiles\Qt\6.8.0\msvc2022_64\lib\Qt6EntryPoint.prl \
-		.qmake.stash \
 		G:\ProgramFiles\Qt\6.8.0\msvc2022_64\mkspecs\features\build_pass.prf \
 		debug\qmake_qmake_qm_files.qrc \
 		G:\ProgramFiles\Qt\6.8.0\msvc2022_64\lib\Qt6Widgetsd.prl \
@@ -568,6 +568,7 @@ G:\ProgramFiles\Qt\6.8.0\msvc2022_64\mkspecs\features\qt_functions.prf:
 G:\ProgramFiles\Qt\6.8.0\msvc2022_64\mkspecs\features\qt_config.prf:
 G:\ProgramFiles\Qt\6.8.0\msvc2022_64\mkspecs\win32-msvc\qmake.conf:
 G:\ProgramFiles\Qt\6.8.0\msvc2022_64\mkspecs\features\spec_post.prf:
+.qmake.stash:
 G:\ProgramFiles\Qt\6.8.0\msvc2022_64\mkspecs\features\exclusive_builds.prf:
 G:\ProgramFiles\Qt\6.8.0\msvc2022_64\mkspecs\common\msvc-version.conf:
 G:\ProgramFiles\Qt\6.8.0\msvc2022_64\mkspecs\features\toolchain.prf:
@@ -599,7 +600,6 @@ G:\ProgramFiles\Qt\6.8.0\msvc2022_64\lib\Qt6Widgets.prl:
 G:\ProgramFiles\Qt\6.8.0\msvc2022_64\lib\Qt6Gui.prl:
 G:\ProgramFiles\Qt\6.8.0\msvc2022_64\lib\Qt6Core.prl:
 G:\ProgramFiles\Qt\6.8.0\msvc2022_64\lib\Qt6EntryPoint.prl:
-.qmake.stash:
 G:\ProgramFiles\Qt\6.8.0\msvc2022_64\mkspecs\features\build_pass.prf:
 debug\qmake_qmake_qm_files.qrc:
 G:\ProgramFiles\Qt\6.8.0\msvc2022_64\lib\Qt6Widgetsd.prl:
