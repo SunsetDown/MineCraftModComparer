@@ -1,0 +1,8 @@
+G:/ProgramData/QtProject/MineCraftModComparer/build/Desktop_Qt_6_8_0_MSVC2022_64bit-Debug/CMakeFiles/MineCraftModComparer.dir
+G:/ProgramData/QtProject/MineCraftModComparer/build/Desktop_Qt_6_8_0_MSVC2022_64bit-Debug/CMakeFiles/edit_cache.dir
+G:/ProgramData/QtProject/MineCraftModComparer/build/Desktop_Qt_6_8_0_MSVC2022_64bit-Debug/CMakeFiles/rebuild_cache.dir
+G:/ProgramData/QtProject/MineCraftModComparer/build/Desktop_Qt_6_8_0_MSVC2022_64bit-Debug/CMakeFiles/list_install_components.dir
+G:/ProgramData/QtProject/MineCraftModComparer/build/Desktop_Qt_6_8_0_MSVC2022_64bit-Debug/CMakeFiles/install.dir
+G:/ProgramData/QtProject/MineCraftModComparer/build/Desktop_Qt_6_8_0_MSVC2022_64bit-Debug/CMakeFiles/install/local.dir
+G:/ProgramData/QtProject/MineCraftModComparer/build/Desktop_Qt_6_8_0_MSVC2022_64bit-Debug/CMakeFiles/MineCraftModComparer_autogen_timestamp_deps.dir
+G:/ProgramData/QtProject/MineCraftModComparer/build/Desktop_Qt_6_8_0_MSVC2022_64bit-Debug/CMakeFiles/MineCraftModComparer_autogen.dir
